@@ -144,7 +144,7 @@ Market price fluctuation is difficult to anticipate manually across 34 provinces
 
 ## 8. Deliverables
 
-1. `RD_Market_Price_Prediction.md` — this requirement document
+1. `README.md` — this requirement document
 2. `Market_Price_Prediction.ipynb` — end-to-end analysis & forecasting notebook (generic, reusable across commodities)
 3. Cleaned long-format dataset (generated at runtime, optionally exportable to CSV)
 4. Forecast output table & charts (generated at runtime)
